@@ -6,3 +6,5 @@ math
 pylab
 train_test_split, LinearRegression, mean_squared_error, mean_absolute_error from sklearn 
 stats from scipy
+
+These are the required libraries.
